@@ -1,0 +1,14 @@
+/Users/seharaejaz/Documents/sit771_c#/Game/bin/Debug/net8.0/Game
+/Users/seharaejaz/Documents/sit771_c#/Game/bin/Debug/net8.0/Game.deps.json
+/Users/seharaejaz/Documents/sit771_c#/Game/bin/Debug/net8.0/Game.runtimeconfig.json
+/Users/seharaejaz/Documents/sit771_c#/Game/bin/Debug/net8.0/Game.dll
+/Users/seharaejaz/Documents/sit771_c#/Game/bin/Debug/net8.0/Game.pdb
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.AssemblyInfoInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.AssemblyInfo.cs
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.csproj.CoreCompileInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.dll
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/refint/Game.dll
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.pdb
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/Game.genruntimeconfig.cache
+/Users/seharaejaz/Documents/sit771_c#/Game/obj/Debug/net8.0/ref/Game.dll
